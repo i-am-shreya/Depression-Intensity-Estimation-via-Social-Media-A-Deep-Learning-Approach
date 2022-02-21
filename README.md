@@ -1,5 +1,7 @@
 # Depression-Intensity-Estimation-via-Social-Media-A-Deep-Learning-Approach
 
+It is very important to determine the severity of depression for a proper understanding of any depression case, as illustrated in the following figure.
+
 If you find the paper/code useful for your research, please consider citing our work:
 ```
 @article{ghosh2021depression,
