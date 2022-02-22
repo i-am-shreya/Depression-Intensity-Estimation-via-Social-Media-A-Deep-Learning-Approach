@@ -1,12 +1,16 @@
 # Depression-Intensity-Estimation-via-Social-Media-A-Deep-Learning-Approach
 
-Depression has become a big problem in our society today. It is also a major reason for suicide, especially among teenagers. In the current outbreak of coronavirus disease (COVID-19), the affected countries have recommended social distancing and lockdown measures. Resulting in interpersonal isolation, these measures have raised serious concerns for mental health and depression. Generally, clinical psychologists diagnose depressed people via face-to-face interviews following the clinical depression criteria. However, often patients tend to not consult doctors in their early stages of depression. Nowadays, people are increasingly using social media to express their moods. In this article, we aim to predict depressed users as well as estimate their depression intensity via leveraging social media (Twitter) data, in order to aid in raising an alarm. We model this problem as a  self-supervised learning task. We start with weakly labeling the Twitter data in a self-supervised manner. A rich set of features, including emotional, topical, behavioral, user level, and depression-related n-gram features, are extracted to represent each user. Using these features, we train a small long short-term memory (LSTM) network using Swish as an activation function, to predict the depression intensities.
+Depression has become a big problem in our society today. It is also a major reason for suicide, especially among teenagers. In the current outbreak of coronavirus disease (COVID-19), the affected countries have recommended social distancing and lockdown measures. Resulting in interpersonal isolation, these measures have raised serious concerns for mental health and depression. Generally, clinical psychologists diagnose depressed people via face-to-face interviews following the clinical depression criteria. However, often patients tend to not consult doctors in their early stages of depression. Nowadays, people are increasingly using social media to express their moods. In this article, we aim to predict depressed users as well as estimate their depression intensity via leveraging social media (Twitter) data, in order to aid in raising an alarm. We model this problem as a  self-supervised learning task. We start with weakly labeling the Twitter data in a self-supervised manner. A rich set of features, including emotional, topical, behavioral, user level, and depression-related n-gram features, are extracted to represent each user. Using these features, we train a small long short-term memory (LSTM) network using Swish as an activation function, to predict the depression intensities. Depression intensity analysis from social media on BDI-II scaleis shown below.
 
 ![Scale](/figs/depression_intensity.png) 
-Depression intensity analysis from social media on BDI-II scale.
+
 
 ## Dataset
 Please download the data using the link: [MDDL](https://github.com/sunlightsgy/MDDL) 
+
+## Pipeline 
+![pipeline](/figs/framework_depression.png) 
+
 
 If you find the paper/code useful for your research, please consider citing our work:
 ```
