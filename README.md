@@ -18,4 +18,8 @@ If you find the paper/code useful for your research, please consider citing our 
 }
 ```
 ## Contact
-- <a href="https://sites.google.com/view/shreyaghosh/home">Shreya Ghosh</a> and <a href="https://scholar.google.com/citations?user=pomKKtoAAAAJ&hl=en">Dr Tarique Anwar.
+- <a href="https://sites.google.com/view/shreyaghosh/home">Shreya Ghosh</a> and <a href="https://scholar.google.com/citations?user=pomKKtoAAAAJ&hl=en">Dr Tarique Anwar</a>.
+
+## Acknowledgements
+This repository makes liberal use of data repositarites from 
+[MDDL](https://github.com/sunlightsgy/MDDL), [NLTK](https://www.nltk.org/index.html).
