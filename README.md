@@ -30,4 +30,4 @@ If you find the paper/code useful for your research, please consider citing our 
 
 ## Acknowledgements
 This repository makes liberal use of data repositarites from 
-[MDDL](https://github.com/sunlightsgy/MDDL), [NLTK](https://www.nltk.org/index.html), [text-vad](https://github.com/bagustris/text-vad), [Sentiment-Analysis-ANEW](https://github.com/nisarg64/Sentiment-Analysis-ANEW), [SentimentAnalysis](https://github.com/dwzhou/SentimentAnalysis).
+[MDDL](https://github.com/sunlightsgy/MDDL), [NLTK](https://www.nltk.org/index.html), [text-vad](https://github.com/bagustris/text-vad), [Sentiment-Analysis-ANEW](https://github.com/nisarg64/Sentiment-Analysis-ANEW), [SentimentAnalysis](https://github.com/dwzhou/SentimentAnalysis), [topic-modeling-to-identify-depression-markers](https://github.com/abhilashhn1993/topic-modeling-to-identify-depression-markers).
