@@ -11,7 +11,6 @@ Please download the data using the link: [MDDL](https://github.com/sunlightsgy/M
 ## Pipeline 
 ![pipeline](/figs/framework_depression.png) 
 
-
 If you find the paper/code useful for your research, please consider citing our work:
 ```
 @article{ghosh2021depression,
