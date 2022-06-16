@@ -24,6 +24,7 @@ If you find the paper/code useful for your research, please consider citing our 
   publisher={IEEE}
 }
 ```
+Please note that the LSTM and DNN code is old, it does not support tensorflow 2+ version. 
 ## Contact
 - <a href="https://sites.google.com/view/shreyaghosh/home">Shreya Ghosh</a> and <a href="https://scholar.google.com/citations?user=pomKKtoAAAAJ&hl=en">Dr Tarique Anwar</a>.
 
